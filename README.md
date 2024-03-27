@@ -1,10 +1,9 @@
 # Hi, I'm Misael!
-### I'm a Python Programmer
+### I'm a Python Developer
 
 About me:
 
-- I'm working as a Python freelancer.
-- If you have any idea about some projects, come talk to me!!
+- I'm working as a Python freelancer and studying TI.
 - If you want to talk about coding or anything else, come talk to me as well!!
 - My contact: [misaelkellermann@gmail.com](misaelkellermann@gmail.com)
 
