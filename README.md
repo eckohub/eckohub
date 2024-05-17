@@ -22,6 +22,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellermannhub&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
-## My Contributions
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eckohub/Tetris-with-Pygame)
